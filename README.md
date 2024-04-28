@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdevasish512&label=Profile%20views&color=0e75b6&style=flat" alt="mdevasish512" /> </p>
 
-- 👨‍💻 All of my projects are available at [mdevasish512@gmail.com](mdevasish512@gmail.com)
+- 👨‍💻 All of my projects are available at [mdevasish512@gmail.com](mdevasish512.blogspot.com)
 
-- 📝 I regularly write articles on [mdevasish512@gmail.com](mdevasish512@gmail.com)
+- 📝 I regularly write articles on [mdevasish512@gmail.com](mdevasish512.blogspot.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
